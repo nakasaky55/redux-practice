@@ -20,3 +20,29 @@
 .App-link {
   color: #09d3ac;
 }
+
+.edit-form {
+  margin-top: 20vh;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.footer-style {
+  min-height: 111px;
+  background-color: #343a40;
+}
+
+.footer-style p {
+  color: white;
+  line-height: 100px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.custom-container {
+  min-height: 80vh ;
+}
